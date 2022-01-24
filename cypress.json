@@ -1,0 +1,4 @@
+{
+    "baseUrl": "http://my.transfergo.com/",
+    "integrationFolder": "cypress/integration/api-tests"
+}
